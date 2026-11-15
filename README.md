@@ -5,19 +5,18 @@
 <h1 align="center">Enrage</h1>
 
 <p align="center">
-  <code>@GodsWarior</code> &nbsp;·&nbsp; Python &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; TypeScript &nbsp;·&nbsp; .NET
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=GodsWarior&label=VIEWS&color=161b22&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
 
-### `// about`
+<img align="right" src="./tyan.jpg" alt="tyan" width="190" />
 
-- Building practical software across **Computer Vision** (`YOLO`, object detection, hand-tracking controllers), **Automation**, **Simulations**, and **Web / .NET**
-- Exploring clean architectures, real-time inference, and lightweight developer utilities
+20, love coding. I specialize in **full-stack development** and **machine learning**.
+
+Big fan of 3 AM &lt;3
+
+<br clear="right" />
 
 ---
 
