@@ -12,7 +12,9 @@
 
 <img align="right" src="./tyan.jpg" alt="tyan" width="190" />
 
-20, love coding. I specialize in **full-stack development** and **machine learning**.
+20, love coding, and currently finishing my 4th year at university. I specialize in **full-stack development** and **machine learning**.
+
+Lately I've been tinkering with computer vision (`YOLO`), hand-tracking controllers, and little automation scripts that make life easier.
 
 Big fan of 3 AM &lt;3
 
