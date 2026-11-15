@@ -10,7 +10,7 @@
 
 ---
 
-<img align="right" src="./tyan.jpg" alt="tyan" width="190" />
+<img align="right" src="./tyan-dark.jpg" alt="tyan" width="190" />
 
 20, love coding, and currently finishing my 4th year at university. I specialize in **full-stack development** and **machine learning**.
 
